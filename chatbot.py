@@ -1,5 +1,5 @@
 #Vecna AI The rule based chatbot
-#Developed by Himanshu Kumar
+#Developed by Priya Kumari
 #The name of my AI Vecna is from a netflix series STRANGER THINGS 
 
 import re
@@ -465,4 +465,5 @@ if __name__ == "__main__":
                 print("Please enter a valid option (1-4)")
         except KeyboardInterrupt:
             print("\nGoodbye!")
+
             break
